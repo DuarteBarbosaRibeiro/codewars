@@ -1,4 +1,5 @@
-using System;
+// URL: https://www.codewars.com/kata/55c4eb777e07c13528000021
+
 using System.Collections.Generic;
 
 public class FactorialTail
